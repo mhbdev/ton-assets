@@ -6480,6 +6480,22 @@
   ]
  },
  {
+  "address": "0:62fa7cbf192d34423900aefea4e528c02cc15d277c16f0e0fa90602c2d3dc8f9",
+  "decimals": 9,
+  "description": "PizzaTon's Official Jetton on TON blockchain",
+  "image": "https://pizzaton.me/token/logo.png",
+  "name": "PIZZA",
+  "social": [
+   "https://t.me/pitzaton",
+   "https://t.me/pizzatonbot",
+   "https://x.com/pitzaton"
+  ],
+  "symbol": "$PIZZA",
+  "websites": [
+   "https://pizzaton.me"
+  ]
+ },
+ {
   "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
   "description": "Palladium Venture Foundation",
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
